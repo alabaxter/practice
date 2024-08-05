@@ -18,7 +18,7 @@
 // 새로만든 브랜치로 이동 - git checkout 브랜치이름 (서로다른 브랜치는 작업물 공유 x)
 // 다른 브랜치들을 다 합치는 법 - git merge 합치고 싶은 브랜치이름
 
-//gitbub 에 올리는 법
+//gitbub 에 올리는 법 (올리기 전 commit 필수,이후에 push)
 
 // 1. (git) (remote) (add) (원하는 이름) (github repository주소)
 // 2. (git) (push) (원하는 이름) (원하는 브랜치)
